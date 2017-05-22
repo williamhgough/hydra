@@ -1,0 +1,14 @@
+Hydra-logger.go:39: Starting chat room HydraChat
+Hydra-logger.go:39: Received request from client 127.0.0.1:60696
+Hydra-logger.go:41: Anonymous185:RandomMessage 106
+Hydra-logger.go:41: Anonymous185:RandomMessage 332
+Hydra-logger.go:41: Anonymous185:RandomMessage 152
+Hydra-logger.go:41: Anonymous185:RandomMessage 302
+Hydra-logger.go:41: Anonymous185:RandomMessage 189
+Hydra-logger.go:41: Anonymous185:RandomMessage 327
+Hydra-logger.go:41: Anonymous185:RandomMessage 374
+Hydra-logger.go:41: Anonymous185:RandomMessage 246
+Hydra-logger.go:41: Anonymous185:RandomMessage 395
+Hydra-logger.go:41: Anonymous185:RandomMessage 13
+Hydra-logger.go:41: Anonymous185:RandomMessage 153
+Hydra-logger.go:41: Removing client 
